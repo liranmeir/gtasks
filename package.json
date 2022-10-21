@@ -45,7 +45,8 @@
   ],
   "dependencies": {
     "@raycast/api": "^1.40.3",
-    "@raycast/utils": "^1.4.9"
+    "@raycast/utils": "^1.4.9",
+    "googleapis": "^108.0.0"
   },
   "devDependencies": {
     "@types/node": "16.10.3",
